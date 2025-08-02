@@ -5,4 +5,21 @@ In this project, we build an ETL (Extract, Transform, Load) pipeline using the F
 
 ![ETL Architecture](https://raw.githubusercontent.com/IshanH9/premier-league-end-to-end-data-engineering-project/main/pl-ETL-project-ishan.png)
 
+Technology Used
+Programming Language: Python
+
+Cloud Platform: AWS
+
+AWS Lambda
+
+Amazon S3
+
+Amazon CloudWatch
+
+AWS Glue (Crawler + Data Catalog)
+
+Amazon Athena
+
+Data Analytics: SQL (via Athena)
+
 
